@@ -45,7 +45,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 1. Clone the repository:
 
  ```bash
-git clone https://github.com/yourusername/diabetes-prediction.git
+git clone https://github.com/GokulR2003/AI-in-Healthcare.git
 cd diabetes-prediction
 ```
 
